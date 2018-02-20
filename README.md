@@ -69,8 +69,8 @@ id is of type number comments is of type object contain comment as a single vari
 ### array
 
  ```
- variable=strings_numbers&strings=a4s2mn4mx6&number=a5_9n 
+ variable=names_numbers&names=a4s2mn4mx6&number=a5_9n 
  ```
  
-   contain two variable string and number of type array. name contain array of string contain 5 values (a5) and string(s2mn4mx6)
-   number contain array values in between 5 to 9 (a5_9) and number(n)
+   contain two variable names and number of type array. names contain array of string contain 5 values (a5) of type string(s2mn4mx6)
+   number contain array values in between 5 to 9 (a5_9) of type number(n)
