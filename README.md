@@ -45,26 +45,34 @@ multiple variable ```variable=id_post&id=ns&post=s10_25mn3mx6``` object of two v
 
 ### number 
 
-    ```variable=id_number_serise&id=n&number=nu&serise=ns```
+    ```
+    variable=id_number_serise&id=n&number=nu&serise=ns
+    ```
     
   contain three variable id , number , serise . id is a simple number(n).number is a number in unique(nu) . serise is a number contain number in serise 
  
 ### string 
 
-    ``` variable=name_post&name=s2mn4mx6&post=s20_30mn4mx6 ```
+    ``` 
+    variable=name_post&name=s2mn4mx6&post=s20_30mn4mx6 
+    ```
    contain two variable name and post of type string . name contain 2 words minimun 4 character and maximum 6 character.
    post contain 20 to 30 words minimum 4 character and maximum 6 character
        
 ### object 
 
-  ``` variable=id_comments&id=n&comments=i_comment&comment=s10_30mn3mx6 ```
+  ```
+  variable=id_comments&id=n&comments=i_comment&comment=s10_30mn3mx6 
+  ```
 
 
 id is of type number comments is of type object contain comment as a single variable of type string contain 10 to 30 words
 
 ### array
 
- ``` variable=strings_numbers&strings=a4s2mn4mx6&number=a5_9n ```
+ ```
+ variable=strings_numbers&strings=a4s2mn4mx6&number=a5_9n 
+ ```
  
    contain two variable string and number of type array. name contain array of string contain 5 values (a5) and string(s2mn4mx6)
    number contain array values in between 5 to 9 (a5_9) and number(n)
