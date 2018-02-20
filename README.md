@@ -44,7 +44,6 @@ a for array
 multiple variable ```variable=id_post&id=ns&post=s10_25mn3mx6``` object of two values will be return id which is number(n) and will be in sequence(s) other one is post of type string(s) contain 10 to 25 words (10_25) word contain minimum 3 character or maximum 6 (mn3mx6)
 
 ### number 
-
     ```
     variable=id_number_serise&id=n&number=nu&serise=ns
     ```
@@ -52,7 +51,6 @@ multiple variable ```variable=id_post&id=ns&post=s10_25mn3mx6``` object of two v
   contain three variable id , number , serise . id is a simple number(n).number is a number in unique(nu) . serise is a number contain number in serise 
  
 ### string 
-
     ``` 
     variable=name_post&name=s2mn4mx6&post=s20_30mn4mx6 
     ```
